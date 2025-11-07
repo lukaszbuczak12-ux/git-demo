@@ -13,3 +13,7 @@ eeeeeeee
 
 
 +=+=+ ej
+
+
+
+używam nowej gałęźi sigma
